@@ -1,0 +1,49 @@
+Retired Hurt (Done)
+Penalty (Done)
+Innings washed out         (Done)
+Kedhar jadhav retired hurt  (Done)
+Check if any retired hurt was missed by confirming with scorecard (Done)
+Check if any player didn't get chance to bat but was on non-striker end (Done) 
+If retired hurt player has same last name as another Player (Done)
+Check if the player was retired hurt on extras (Done)
+If someone is runout on (0,0) (Done)
+If someone is runout on (0,0) and someone got retired hurt before that (Done)
+
+de Villiers (Done)
+Bhajji (Done)
+V Iyer (Done) 
+S Iyer (Done)
+Venky (Done)
+When multiple wickets fall and both set batsman are out (Done)
+
+
+When all the wickets fell, see the function over_check (Done)
+Check for caught and ball (Done)
+When a batter is run out and run is scored and the batter didn't face a ball(Done)
+When no wickets fell, see the function over_check (Done)
+Misbah-ul-Haq (Done)
+Palani  Amarnath, with two space between the name(Done)
+Hit wicket(Done)
+No ball and bye together (Done)
+Absent Hurt(Done)
+4.1 - 0.1 = 3.999999996 (Done)
+Players with same last name or first name (Done)
+If someone is runout on (0,0) and a run was scored and in one of the innings all the batsmen batted (Done)
+If a new batter has the same name as the player already on the pitch (Done)
+If a new batter has the same name as the player already on the pitch and he was dismissed before the end of the over (Done)
+If a new batter has the same last name as another new player who hasn't batted till but will be on strike the next over (Done)
+
+
+
+Create a mysql Database
+Human Intervention Error - New Name, Slow Internet
+Assertion error -  Unknown Error, Byes on a No Ball
+StaleElementReferenceException
+ElementClickInterceptedException
+WebDriverException 
+select * from all_matches where Non_Striker is null; Brad Hogg (Match id = 980951)
+
+Super Over matches , Result will stop, manually
+Wicket Keeper sub not detected
+Ajinkya Rahane
+Taruwar Kohli
