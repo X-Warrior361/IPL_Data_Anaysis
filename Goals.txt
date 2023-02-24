@@ -1,3 +1,5 @@
+Phase 1
+
 Retired Hurt (Done)
 Penalty (Done)
 Innings washed out         (Done)
@@ -47,3 +49,14 @@ Super Over matches , Result will stop, manually
 Wicket Keeper sub not detected
 Ajinkya Rahane
 Taruwar Kohli
+
+
+Phase 2
+
+Batting details
+Bowling details
+Fielding details
+Player details
+Partnership details (which wicket) [Add wicket column]
+Partnership in bowling (who was bowling at the other end) [Add preivous bowler column]
+Player id
