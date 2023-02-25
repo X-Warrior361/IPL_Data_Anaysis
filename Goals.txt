@@ -44,6 +44,7 @@ StaleElementReferenceException
 ElementClickInterceptedException
 WebDriverException 
 select * from all_matches where Non_Striker is null; Brad Hogg (Match id = 980951)
+select * from all_matches where Non_Striker='Check Required'  (update all_matches set all_matches.Non_Striker = 'Kumar Sangakkara' where all_matches.Match_Id = 336003 and all_matches.Non_Striker = 'Check Required', update all_matches set all_matches.Non_Striker = 'Adam Gilchrist' where all_matches.Match_Id = 548328 and all_matches.Non_Striker = 'Check Required')
 
 Super Over matches , Result will stop, manually
 Wicket Keeper sub not detected
