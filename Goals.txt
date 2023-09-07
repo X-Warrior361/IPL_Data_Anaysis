@@ -61,3 +61,5 @@ Player details
 Partnership details (which wicket) [Add wicket column]
 Partnership in bowling (who was bowling at the other end) [Add preivous bowler column]
 Player id
+
+API Key - AIzaSyDD94t6NsVyQUujzy8M3uYJcZYi2becOGQ
