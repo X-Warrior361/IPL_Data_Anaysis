@@ -13,4 +13,4 @@ Data analysis and visualization using R
 - Install MYSQL to use as the database for the project
 - Run `pip install -r requirements.txt`
 - Go to `SqlAlchemy Connector` section in `Scrapper.ipynb` and change the `engine` variable according to your local vaiable
-- Run all the cells above the 
+- Run all the cells above the `For Debugging` section
