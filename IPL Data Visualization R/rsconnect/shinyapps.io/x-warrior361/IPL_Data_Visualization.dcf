@@ -1,0 +1,12 @@
+name: IPL_Data_Visualization
+title: IPL_Data_Visualization
+username: x-warrior361
+account: x-warrior361
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10532702
+bundleId: 7996089
+url: https://x-warrior361.shinyapps.io/IPL_Data_Visualization/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
