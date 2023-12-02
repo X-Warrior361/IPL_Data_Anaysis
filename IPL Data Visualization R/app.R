@@ -29,7 +29,7 @@ bowling_metric <- c('Wickets', 'Bowling Average', 'Economy')
 # Define UI for application that draws a histogram
 ui <- dashboardPage(skin = "purple",
                     dashboardHeader(
-                      title = "IPL Data Analysis"
+                      title = "IPL Data Visualization"
                     ),
                     
                     dashboardSidebar(
@@ -45,6 +45,9 @@ ui <- dashboardPage(skin = "purple",
                       tabItems(
                       tabItem("about",
                         mainPanel(
+                          src(img('https://github.com/X-Warrior361/IPL_Data_Anaysis/blob/main/IPL%20Data%20Visualization%20R/ipl.png')),
+                          img(src = 'm.png'),
+                          h1('IPL Insights: Unveiling Trends Through Data'),
                           div(
                             style = "font-family: 'Times New Roman'; text-align: justify;font-size: 15px;",
                             HTML('The Indian Premier League, commonly known as the IPL, is an annual multi-franchise-based T20 league
@@ -63,8 +66,6 @@ each ball delivered'),
                           ),
                           
 
-                          img(src='ipl.png'),
-                          p('Hi')
                         )
                       ),
                       
