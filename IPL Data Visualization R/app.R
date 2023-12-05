@@ -45,9 +45,9 @@ ui <- dashboardPage(skin = "purple",
                       tabItems(
                       tabItem("about",
                         mainPanel(
-                          src(img('https://github.com/X-Warrior361/IPL_Data_Anaysis/blob/main/IPL%20Data%20Visualization%20R/ipl.png')),
-                          img(src = 'm.png'),
                           h1('IPL Insights: Unveiling Trends Through Data'),
+                          p(' '),
+                          p(' '),
                           div(
                             style = "font-family: 'Times New Roman'; text-align: justify;font-size: 15px;",
                             HTML('The Indian Premier League, commonly known as the IPL, is an annual multi-franchise-based T20 league
@@ -56,6 +56,7 @@ holds the pinnacle position in world cricket. It is also one of the most valuabl
 second only to the NFL. Cricketers from all around the world participate in it, creating a battle among the
 biggest stars of world cricket. In this league, anything is possible, and no one is declared a winner until the
 last ball is delivered.')),
+                          p(' '),
                           div(
                             style = "font-family: 'Times New Roman'; text-align: justify;font-size: 15px;",
                             HTML('Cricket has always been statistics-driven since its early days, and with the advent of modern technology,
@@ -105,7 +106,20 @@ each ball delivered'),
                         )        
                       ),
                       tabItem('summary',
-                              
+                              h1('Summary'),
+                              div(
+                                style = "font-family: 'Times New Roman'; text-align: justify;font-size: 20px;",
+                                HTML('1) The batters who are top scorers in the IPL are also top scorers at all the venues on average, and their
+home ground doesn’t significantly inflate their run-scoring.')),
+                              p(),
+                              div(
+                                style = "font-family: 'Times New Roman'; text-align: justify;font-size: 20px;",
+                                HTML('2) Having a high average doesn’t necessarily make a player the best batter, as strike rate also plays a
+crucial role in the IPL.')),
+                              p(),
+                              div(
+                                style = "font-family: 'Times New Roman'; text-align: justify;font-size: 20px;",
+                                HTML('3) To get a sense of the best average of a particular team, we need to consider a threshold of matches played by the players.'))
                       )
                     )),
                     
@@ -114,31 +128,6 @@ each ball delivered'),
 
 
 server <- function(input, output){
-  
-  # Player's Tab
-  # bat_dynamic <- reactive({
-  #   if (input$Player_a1 == 'All'){
-  #   batting_data %>% filter(Striker == input$Player_1,
-  #                           if (input$Player_a1 != "All") Bowler == input$Player_a1 else TRUE,
-  #                           if (input$Team_1 != "All") Batting_Team == input$Team_1 else TRUE,
-  #                           if (input$Team_a1 != "All") Bowling_Team == input$Team_a1 else TRUE,
-  #                           if (input$Venue_1 != "All") Stadium == input$Venue_1 else TRUE) %>%
-  #     group_by(Striker, Season) %>%
-  #     summarise(Runs=sum(Runs), Wickets=sum(Wickets), Balls=sum(Balls)) %>%
-  #     mutate(Average = Runs/Wickets, Strike_Rate = Runs/Balls*100)
-  #   }
-  #   else{
-  #       batting_data %>% filter(Striker == input$Player_1,
-  # 
-  #                               if (input$Player_a1 != "All") Bowler == input$Player_a1 else TRUE,
-  #                               if (input$Team_1 != "All") Batting_Team == input$Team_1 else TRUE,
-  #                               if (input$Team_a1 != "All") Bowling_Team == input$Team_a1 else TRUE,
-  #                               if (input$Venue_1 != "All") Stadium == input$Venue_1 else TRUE) %>%
-  #         group_by(Striker, Season) %>%
-  #         summarise(Runs=sum(Runs), Balls=sum(Balls), Out=sum(Wickets), Run_Out=sum(Run_Out)) %>%
-  #         mutate(Average = Runs/(Out-Run_Out), Strike_Rate = Runs/Balls*100)
-  #   }
-  # })
   
   bat_dynamic<- reactive({
     df_name <- paste(
