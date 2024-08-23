@@ -1,0 +1,4566 @@
+{
+    "Doug Bracewell": {
+        "Date of Birth": "28/09/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Manpreet Gony": {
+        "Date of Birth": "04/01/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ray Price": {
+        "Date of Birth": "12/06/1976",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "Zimbabwe"
+    },
+    "Pinal Shah": {
+        "Date of Birth": "03/11/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Basil Thampi": {
+        "Date of Birth": "11/09/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Travis Head": {
+        "Date of Birth": "29/12/1993",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Shivam Dube": {
+        "Date of Birth": "26/06/1993",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Anureet Singh": {
+        "Date of Birth": "02/03/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Anuj Rawat": {
+        "Date of Birth": "17/10/1999",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Marco Jansen": {
+        "Date of Birth": "01/05/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "South Africa"
+    },
+    "Ankit Soni": {
+        "Date of Birth": "02/08/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Aiden Blizzard": {
+        "Date of Birth": "27/06/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Batter",
+        "Country": "Australia"
+    },
+    "Narayan Jagadeesan": {
+        "Date of Birth": "24/12/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Ryan McLaren": {
+        "Date of Birth": "09/02/1983",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "South Africa"
+    },
+    "Hanuma Vihari": {
+        "Date of Birth": "13/10/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "India"
+    },
+    "Adil Rashid": {
+        "Date of Birth": "17/02/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "England"
+    },
+    "Gnaneswara Rao": {
+        "Date of Birth": "25/08/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Tushar Deshpande": {
+        "Date of Birth": "15/05/1995",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Eklavya Dwivedi": {
+        "Date of Birth": "22/07/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper",
+        "Country": "India"
+    },
+    "Anmolpreet Singh": {
+        "Date of Birth": "28/03/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Beuran Hendricks": {
+        "Date of Birth": "08/06/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Chris Jordan": {
+        "Date of Birth": "04/10/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "England"
+    },
+    "Tilak Varma": {
+        "Date of Birth": "08/11/2002",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "India"
+    },
+    "Anil Kumble": {
+        "Date of Birth": "17/10/1970",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Eoin Morgan": {
+        "Date of Birth": "10/09/1986",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Middle order Batter",
+        "Country": "England"
+    },
+    "Naman Ojha": {
+        "Date of Birth": "20/07/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Ramnaresh Sarwan": {
+        "Date of Birth": "23/06/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Batter",
+        "Country": "West Indies"
+    },
+    "Munaf Patel": {
+        "Date of Birth": "12/07/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Yuzvendra Chahal": {
+        "Date of Birth": "23/07/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "KC Cariappa": {
+        "Date of Birth": "13/04/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Shaun Pollock": {
+        "Date of Birth": "16/07/1973",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "South Africa"
+    },
+    "Biplab Samantray": {
+        "Date of Birth": "14/12/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Quinton de Kock": {
+        "Date of Birth": "17/12/1992",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "South Africa"
+    },
+    "Tymal Mills": {
+        "Date of Birth": "12/08/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "England"
+    },
+    "Rahul Chahar": {
+        "Date of Birth": "04/08/1999",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Michael Lumb": {
+        "Date of Birth": "12/02/1980",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "England"
+    },
+    "Akila Dananjaya": {
+        "Date of Birth": "04/10/1993",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak, Legbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Ronit More": {
+        "Date of Birth": "02/02/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Lakshmipathy Balaji": {
+        "Date of Birth": "27/09/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Dwayne Smith": {
+        "Date of Birth": "12/04/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "West Indies"
+    },
+    "Sam Curran": {
+        "Date of Birth": "03/06/1998",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "England"
+    },
+    "Yogesh Nagar": {
+        "Date of Birth": "06/01/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Mahipal Lomror": {
+        "Date of Birth": "16/11/1999",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Jamaluddin Syed Mohammad": {
+        "Date of Birth": "03/06/1983",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "David Wiese": {
+        "Date of Birth": "18/05/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "Namibia"
+    },
+    "Prayas Ray Barman": {
+        "Date of Birth": "25/10/2002",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "AB de Villiers": {
+        "Date of Birth": "17/02/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "South Africa"
+    },
+    "Laxmi Shukla": {
+        "Date of Birth": "06/05/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Shalabh Srivastava": {
+        "Date of Birth": "22/09/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Nathan McCullum": {
+        "Date of Birth": "01/09/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Ben Laughlin": {
+        "Date of Birth": "03/10/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Davy Jacobs": {
+        "Date of Birth": "04/11/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "South Africa"
+    },
+    "Tim David": {
+        "Date of Birth": "16/03/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "Australia"
+    },
+    "Lungi Ngidi": {
+        "Date of Birth": "29/03/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Shrikant Mundhe": {
+        "Date of Birth": "27/10/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Brad Hodge": {
+        "Date of Birth": "29/12/1974",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Cameron White": {
+        "Date of Birth": "18/08/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Middle order Batter",
+        "Country": "Australia"
+    },
+    "Dominic Thornely": {
+        "Date of Birth": "01/10/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Tirumalasetti Suman": {
+        "Date of Birth": "15/12/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Scott Styris": {
+        "Date of Birth": "10/07/1975",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "New Zealand"
+    },
+    "Rilee Rossouw": {
+        "Date of Birth": "09/10/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "South Africa"
+    },
+    "Shivnarine Chanderpaul": {
+        "Date of Birth": "16/08/1974",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Batter",
+        "Country": "West Indies"
+    },
+    "Manvinder Bisla": {
+        "Date of Birth": "27/12/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper",
+        "Country": "India"
+    },
+    "Kane Richardson": {
+        "Date of Birth": "12/02/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Suyash Prabhudessai": {
+        "Date of Birth": "06/12/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batting Allrounder",
+        "Country": "India"
+    },
+    "Ajantha Mendis": {
+        "Date of Birth": "11/03/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Nathu Singh": {
+        "Date of Birth": "08/09/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ishan Malhotra": {
+        "Date of Birth": "23/05/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Balachandra Akhil": {
+        "Date of Birth": "07/10/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sherfane Rutherford": {
+        "Date of Birth": "15/08/1998",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Middle order Batter",
+        "Country": "West Indies"
+    },
+    "Mithun Manhas": {
+        "Date of Birth": "12/10/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Rajagopal Sathish": {
+        "Date of Birth": "14/01/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Josh Philippe": {
+        "Date of Birth": "01/06/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Australia"
+    },
+    "Vidyut Sivaramakrishnan": {
+        "Date of Birth": "03/12/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Batting Allrounder",
+        "Country": "India"
+    },
+    "Doug Bollinger": {
+        "Date of Birth": "24/07/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Shrikant Wagh": {
+        "Date of Birth": "09/10/1988",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Ryan Ninan": {
+        "Date of Birth": "19/11/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Yash Dayal": {
+        "Date of Birth": "13/12/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Raj Bawa": {
+        "Date of Birth": "12/11/2002",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "KP Appanna": {
+        "Date of Birth": "20/12/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Kyle Abbott": {
+        "Date of Birth": "18/06/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Michael Hussey": {
+        "Date of Birth": "27/05/1975",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Middle order Batter",
+        "Country": "Australia"
+    },
+    "Mayank Markande": {
+        "Date of Birth": "11/11/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ramesh Powar": {
+        "Date of Birth": "20/05/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Chidhambaram Gautam": {
+        "Date of Birth": "08/03/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper",
+        "Country": "India"
+    },
+    "Abhijeet Tomar": {
+        "Date of Birth": "14/03/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Jagadeesha Suchith": {
+        "Date of Birth": "16/01/1994",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Pawan Suyal": {
+        "Date of Birth": "15/10/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Vikramjeet Malik": {
+        "Date of Birth": "09/05/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Bharat Chipli": {
+        "Date of Birth": "27/01/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Mukesh Choudhary": {
+        "Date of Birth": "06/07/1996",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Bhanuka Rajapaksa": {
+        "Date of Birth": "24/10/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "Sri Lanka"
+    },
+    "Jason Roy": {
+        "Date of Birth": "21/07/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Opening Batter",
+        "Country": "England"
+    },
+    "Simarjeet Singh": {
+        "Date of Birth": "17/01/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Travis Birt": {
+        "Date of Birth": "09/12/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Middle order Batter",
+        "Country": "Australia"
+    },
+    "Dwayne Bravo": {
+        "Date of Birth": "07/10/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "West Indies"
+    },
+    "Luke Wright": {
+        "Date of Birth": "07/03/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "England"
+    },
+    "Swapnil Singh": {
+        "Date of Birth": "22/01/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Moeen Ali": {
+        "Date of Birth": "18/06/1987",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "England"
+    },
+    "Pragyan Ojha": {
+        "Date of Birth": "05/09/1986",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Alfonso Thomas": {
+        "Date of Birth": "09/02/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Andre Nel": {
+        "Date of Birth": "15/07/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Ashton Turner": {
+        "Date of Birth": "25/01/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "Australia"
+    },
+    "KL Rahul": {
+        "Date of Birth": "18/04/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Dewald Brevis": {
+        "Date of Birth": "29/04/2003",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "South Africa"
+    },
+    "Jesse Ryder": {
+        "Date of Birth": "06/08/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "New Zealand"
+    },
+    "Ravichandran Ashwin": {
+        "Date of Birth": "17/09/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Glenn Maxwell": {
+        "Date of Birth": "14/10/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "Australia"
+    },
+    "Siddarth Kaul": {
+        "Date of Birth": "19/05/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sachin Tendulkar": {
+        "Date of Birth": "24/04/1973",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak, Legbreak Googly",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Sourav Sarkar": {
+        "Date of Birth": "15/12/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Jitesh Sharma": {
+        "Date of Birth": "22/10/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Junior Dala": {
+        "Date of Birth": "29/12/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Matthew Wade": {
+        "Date of Birth": "26/12/1987",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Australia"
+    },
+    "Riyan Parag": {
+        "Date of Birth": "10/11/2001",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Bhuvneshwar Kumar": {
+        "Date of Birth": "05/02/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Richard Levi": {
+        "Date of Birth": "14/01/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Opening Batter",
+        "Country": "South Africa"
+    },
+    "Darshan Nalkande": {
+        "Date of Birth": "04/10/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Prabhsimran Singh": {
+        "Date of Birth": "10/08/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Azhar Mahmood": {
+        "Date of Birth": "28/02/1975",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Pakistan"
+    },
+    "Luke Pomersbach": {
+        "Date of Birth": "28/09/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "Australia"
+    },
+    "Mahela Jayawardene": {
+        "Date of Birth": "27/05/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "Sri Lanka"
+    },
+    "Parvez Rasool": {
+        "Date of Birth": "13/02/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Kamlesh Nagarkoti": {
+        "Date of Birth": "28/12/1999",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Fidel Edwards": {
+        "Date of Birth": "06/02/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Kuldeep Yadav": {
+        "Date of Birth": "14/12/1994",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Wrist spin",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Jhye Richardson": {
+        "Date of Birth": "20/09/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Damien Martyn": {
+        "Date of Birth": "21/10/1971",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Nuwan Zoysa": {
+        "Date of Birth": "13/05/1978",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Colin Ingram": {
+        "Date of Birth": "03/07/1985",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "South Africa"
+    },
+    "Josh Hazlewood": {
+        "Date of Birth": "08/01/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Evin Lewis": {
+        "Date of Birth": "27/12/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Opening Batter",
+        "Country": "West Indies"
+    },
+    "Aditya Dole": {
+        "Date of Birth": "09/10/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ben Dunk": {
+        "Date of Birth": "11/03/1987",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Australia"
+    },
+    "Gurkeerat Singh Mann": {
+        "Date of Birth": "29/06/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Tristan Stubbs": {
+        "Date of Birth": "14/08/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "South Africa"
+    },
+    "Suresh Raina": {
+        "Date of Birth": "27/11/1986",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Shaun Tait": {
+        "Date of Birth": "22/02/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Ashish Reddy": {
+        "Date of Birth": "24/02/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Adam Gilchrist": {
+        "Date of Birth": "14/11/1971",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Australia"
+    },
+    "Ayush Badoni": {
+        "Date of Birth": "03/12/1999",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Andrew Flintoff": {
+        "Date of Birth": "06/12/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "England"
+    },
+    "Rusty Theron": {
+        "Date of Birth": "24/07/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "U.S.A."
+    },
+    "Yusuf Abdulla": {
+        "Date of Birth": "17/01/1983",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Siddhesh Lad": {
+        "Date of Birth": "23/05/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Murali Kartik": {
+        "Date of Birth": "11/09/1976",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Paul Collingwood": {
+        "Date of Birth": "26/05/1976",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "England"
+    },
+    "Glenn Phillips": {
+        "Date of Birth": "06/12/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "New Zealand"
+    },
+    "Peter Handscomb": {
+        "Date of Birth": "26/04/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Batter",
+        "Country": "Australia"
+    },
+    "Devdutt Padikkal": {
+        "Date of Birth": "07/07/2000",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Rishabh Pant": {
+        "Date of Birth": "04/10/1997",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Ankit Rajpoot": {
+        "Date of Birth": "04/12/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ripal Patel": {
+        "Date of Birth": "28/09/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Marcus Stoinis": {
+        "Date of Birth": "16/08/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batting Allrounder",
+        "Country": "Australia"
+    },
+    "Srikkanth Anirudha": {
+        "Date of Birth": "14/04/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Jerome Taylor": {
+        "Date of Birth": "22/06/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Hardus Viljoen": {
+        "Date of Birth": "06/03/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Carlos Brathwaite": {
+        "Date of Birth": "18/07/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "West Indies"
+    },
+    "Keemo Paul": {
+        "Date of Birth": "21/02/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "West Indies"
+    },
+    "Karn Sharma": {
+        "Date of Birth": "23/10/1987",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Harpreet Brar": {
+        "Date of Birth": "16/09/1995",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Nikhil Naik": {
+        "Date of Birth": "09/11/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Hardik Pandya": {
+        "Date of Birth": "11/10/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Ish Sodhi": {
+        "Date of Birth": "31/10/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Sanju Samson": {
+        "Date of Birth": "11/11/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Kumar Kartikeya": {
+        "Date of Birth": "26/12/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox, Left arm Wrist spin",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Harshit Rana": {
+        "Date of Birth": "22/12/2001",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Mitchell Starc": {
+        "Date of Birth": "30/01/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Mitchell Johnson": {
+        "Date of Birth": "02/11/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Jasprit Bumrah": {
+        "Date of Birth": "06/12/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sheldon Jackson": {
+        "Date of Birth": "27/09/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Chris Woakes": {
+        "Date of Birth": "02/03/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "England"
+    },
+    "Asad Pathan": {
+        "Date of Birth": "17/06/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Kuldeep Sen": {
+        "Date of Birth": "22/10/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ryan ten Doeschate": {
+        "Date of Birth": "30/06/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "Netherlands"
+    },
+    "Ruturaj Gaikwad": {
+        "Date of Birth": "31/01/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Mashrafe Mortaza": {
+        "Date of Birth": "05/10/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Bangladesh"
+    },
+    "Daren Sammy": {
+        "Date of Birth": "20/12/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "West Indies"
+    },
+    "Anukul Roy": {
+        "Date of Birth": "30/11/1998",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Praveen Dubey": {
+        "Date of Birth": "01/07/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Tabraiz Shamsi": {
+        "Date of Birth": "18/02/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Wrist spin",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Wriddhiman Saha": {
+        "Date of Birth": "24/10/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Ravindra Jadeja": {
+        "Date of Birth": "06/12/1988",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Mohnish Mishra": {
+        "Date of Birth": "09/02/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Aniket Choudhary": {
+        "Date of Birth": "28/01/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ankit Sharma": {
+        "Date of Birth": "20/04/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Karun Nair": {
+        "Date of Birth": "06/12/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Wasim Jaffer": {
+        "Date of Birth": "16/02/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Abhishek Raut": {
+        "Date of Birth": "03/03/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Shoaib Malik": {
+        "Date of Birth": "01/02/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Pakistan"
+    },
+    "Nic Maddinson": {
+        "Date of Birth": "21/12/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Opening Batter",
+        "Country": "Australia"
+    },
+    "Shardul Thakur": {
+        "Date of Birth": "16/10/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Swapnil Asnodkar": {
+        "Date of Birth": "29/03/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Sheldon Cottrell": {
+        "Date of Birth": "19/08/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Unmukt Chand": {
+        "Date of Birth": "26/03/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "U.S.A."
+    },
+    "Akshdeep Nath": {
+        "Date of Birth": "10/05/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Ashley Noffke": {
+        "Date of Birth": "30/04/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Paul Valthaty": {
+        "Date of Birth": "07/12/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Ashok Menaria": {
+        "Date of Birth": "29/10/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Rinku Singh": {
+        "Date of Birth": "12/10/1997",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Steven Smith": {
+        "Date of Birth": "02/06/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Krishnappa Gowtham": {
+        "Date of Birth": "20/10/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Pravin Tambe": {
+        "Date of Birth": "08/10/1971",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Mitchell McClenaghan": {
+        "Date of Birth": "11/06/1986",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Aiden Markram": {
+        "Date of Birth": "04/10/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "South Africa"
+    },
+    "Jeevan Mendis": {
+        "Date of Birth": "15/01/1983",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Parvinder Awana": {
+        "Date of Birth": "19/07/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Virat Singh": {
+        "Date of Birth": "08/12/1997",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Karan Goel": {
+        "Date of Birth": "24/12/1986",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Kyle Jamieson": {
+        "Date of Birth": "30/12/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Graham Napier": {
+        "Date of Birth": "06/01/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "England"
+    },
+    "Prithvi Raj": {
+        "Date of Birth": "20/02/1998",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Washington Sundar": {
+        "Date of Birth": "05/10/1999",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Sunny Sohal": {
+        "Date of Birth": "10/11/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Batter",
+        "Country": "U.S.A."
+    },
+    "Aaron Finch": {
+        "Date of Birth": "17/11/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Herschelle Gibbs": {
+        "Date of Birth": "23/02/1974",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Bowler",
+        "Playing Role": "Opening Batter",
+        "Country": "South Africa"
+    },
+    "Mitchell Santner": {
+        "Date of Birth": "05/02/1992",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "New Zealand"
+    },
+    "Manprit Juneja": {
+        "Date of Birth": "12/09/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "David Warner": {
+        "Date of Birth": "27/10/1986",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "Australia"
+    },
+    "Nitish Rana": {
+        "Date of Birth": "27/12/1993",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak, Legbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Bipul Sharma": {
+        "Date of Birth": "28/09/1983",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Dirk Nannes": {
+        "Date of Birth": "16/05/1976",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Harry Gurney": {
+        "Date of Birth": "25/10/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "England"
+    },
+    "Venugopal Rao": {
+        "Date of Birth": "26/02/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Murali Vijay": {
+        "Date of Birth": "01/04/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Makhaya Ntini": {
+        "Date of Birth": "06/07/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Ajinkya Rahane": {
+        "Date of Birth": "06/06/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Sudeep Tyagi": {
+        "Date of Birth": "17/09/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Love Ablish": {
+        "Date of Birth": "03/12/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Aakash Chopra": {
+        "Date of Birth": "19/09/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Moises Henriques": {
+        "Date of Birth": "01/02/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Shimron Hetmyer": {
+        "Date of Birth": "26/12/1996",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Top order Batter",
+        "Country": "West Indies"
+    },
+    "Gautam Gambhir": {
+        "Date of Birth": "14/10/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Pradeep Sangwan": {
+        "Date of Birth": "05/11/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Kedar Jadhav": {
+        "Date of Birth": "26/03/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "India"
+    },
+    "Yusuf Pathan": {
+        "Date of Birth": "17/11/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Prashant Solanki": {
+        "Date of Birth": "22/02/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Dishant Yagnik": {
+        "Date of Birth": "22/06/1983",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper",
+        "Country": "India"
+    },
+    "Matthew Hayden": {
+        "Date of Birth": "29/10/1971",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Opening Batter",
+        "Country": "Australia"
+    },
+    "Adam Voges": {
+        "Date of Birth": "04/10/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Umesh Yadav": {
+        "Date of Birth": "25/10/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Callum Ferguson": {
+        "Date of Birth": "21/11/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Middle order Batter",
+        "Country": "Australia"
+    },
+    "Kane Williamson": {
+        "Date of Birth": "08/08/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "New Zealand"
+    },
+    "Ravi Rampaul": {
+        "Date of Birth": "15/10/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Maheesh Theekshana": {
+        "Date of Birth": "01/08/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Aditya Tare": {
+        "Date of Birth": "07/11/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper",
+        "Country": "India"
+    },
+    "Shreyas Iyer": {
+        "Date of Birth": "06/12/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak, Legbreak Googly",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Dhruv Shorey": {
+        "Date of Birth": "05/06/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Rahul Dravid": {
+        "Date of Birth": "11/01/1973",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Sai Sudharsan": {
+        "Date of Birth": "15/10/2001",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Imran Tahir": {
+        "Date of Birth": "27/03/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Michael Neser": {
+        "Date of Birth": "29/03/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Australia"
+    },
+    "Fabian Allen": {
+        "Date of Birth": "07/05/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "West Indies"
+    },
+    "Chetan Sakariya": {
+        "Date of Birth": "28/02/1998",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ravi Bopara": {
+        "Date of Birth": "04/05/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batting Allrounder",
+        "Country": "England"
+    },
+    "Liam Plunkett": {
+        "Date of Birth": "06/04/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "U.S.A."
+    },
+    "Joginder Sharma": {
+        "Date of Birth": "23/10/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "David Willey": {
+        "Date of Birth": "28/02/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "England"
+    },
+    "Fazalhaq Farooqi": {
+        "Date of Birth": "22/09/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Afghanistan"
+    },
+    "Kagiso Rabada": {
+        "Date of Birth": "25/05/1995",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Harshal Patel": {
+        "Date of Birth": "23/11/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Kieron Pollard": {
+        "Date of Birth": "12/05/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batting Allrounder",
+        "Country": "West Indies"
+    },
+    "Muthiah Muralidaran": {
+        "Date of Birth": "17/04/1972",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Obed McCoy": {
+        "Date of Birth": "04/01/1997",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Hrithik Shokeen": {
+        "Date of Birth": "14/08/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sam Billings": {
+        "Date of Birth": "15/06/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "England"
+    },
+    "Jayant Yadav": {
+        "Date of Birth": "22/01/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Kamran Akmal": {
+        "Date of Birth": "13/01/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Pakistan"
+    },
+    "James Pattinson": {
+        "Date of Birth": "03/05/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "KM Asif": {
+        "Date of Birth": "24/07/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Marlon Samuels": {
+        "Date of Birth": "05/02/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "West Indies"
+    },
+    "Kumar Sangakkara": {
+        "Date of Birth": "27/10/1977",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Sri Lanka"
+    },
+    "Srikar Bharat": {
+        "Date of Birth": "03/10/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Scott Boland": {
+        "Date of Birth": "11/04/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Mitchell Marsh": {
+        "Date of Birth": "20/10/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Clint McKay": {
+        "Date of Birth": "20/02/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "VVS Laxman": {
+        "Date of Birth": "01/11/1974",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Dan Christian": {
+        "Date of Birth": "04/05/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Tom Curran": {
+        "Date of Birth": "12/03/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "England"
+    },
+    "Stuart Binny": {
+        "Date of Birth": "03/06/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Raju Bhatkal": {
+        "Date of Birth": "01/09/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Dimitri Mascarenhas": {
+        "Date of Birth": "30/10/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "England"
+    },
+    "Tom Banton": {
+        "Date of Birth": "11/11/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "England"
+    },
+    "Dwaine Pretorius": {
+        "Date of Birth": "29/03/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "South Africa"
+    },
+    "David Hussey": {
+        "Date of Birth": "15/07/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Tejas Baroka": {
+        "Date of Birth": "01/02/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Gurinder Sandhu": {
+        "Date of Birth": "14/06/1993",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Uday Kaul": {
+        "Date of Birth": "02/12/1987",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper",
+        "Country": "India"
+    },
+    "Stephen Fleming": {
+        "Date of Birth": "01/04/1973",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Top order Batter",
+        "Country": "New Zealand"
+    },
+    "Mujeeb Ur Rahman": {
+        "Date of Birth": "28/03/2001",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "Afghanistan"
+    },
+    "Vaibhav Arora": {
+        "Date of Birth": "14/12/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Barinder Sran": {
+        "Date of Birth": "10/12/1992",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Adrian Barath": {
+        "Date of Birth": "14/04/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "West Indies"
+    },
+    "Shakib Al Hasan": {
+        "Date of Birth": "24/03/1987",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "Bangladesh"
+    },
+    "Umar Gul": {
+        "Date of Birth": "15/10/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Pakistan"
+    },
+    "Shivam Mavi": {
+        "Date of Birth": "26/11/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ricky Bhui": {
+        "Date of Birth": "29/09/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Sachithra Senanayake": {
+        "Date of Birth": "09/02/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Lasith Malinga": {
+        "Date of Birth": "28/08/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Tim Southee": {
+        "Date of Birth": "11/12/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Daniel Vettori": {
+        "Date of Birth": "27/01/1979",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "New Zealand"
+    },
+    "Deepak Hooda": {
+        "Date of Birth": "19/04/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Mayank Agarwal": {
+        "Date of Birth": "16/02/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Taruwar Kohli": {
+        "Date of Birth": "17/12/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Michael Klinger": {
+        "Date of Birth": "04/07/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Batter",
+        "Country": "Australia"
+    },
+    "Colin de Grandhomme": {
+        "Date of Birth": "22/07/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "New Zealand"
+    },
+    "Piyush Chawla": {
+        "Date of Birth": "24/12/1988",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "George Garton": {
+        "Date of Birth": "15/04/1997",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "England"
+    },
+    "Shane Bond": {
+        "Date of Birth": "07/06/1975",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Mark Boucher": {
+        "Date of Birth": "03/12/1976",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "South Africa"
+    },
+    "Vishnu Vinod": {
+        "Date of Birth": "02/12/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Ben Rohrer": {
+        "Date of Birth": "26/03/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Middle order Batter",
+        "Country": "Australia"
+    },
+    "Nathan Rimmington": {
+        "Date of Birth": "11/11/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Sreesanth": {
+        "Date of Birth": "06/02/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Iqbal Abdulla": {
+        "Date of Birth": "02/12/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Reetinder Sodhi": {
+        "Date of Birth": "18/10/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Morne Morkel": {
+        "Date of Birth": "06/10/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Darren Lehmann": {
+        "Date of Birth": "05/02/1970",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Jason Behrendorff": {
+        "Date of Birth": "20/04/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "John Hastings": {
+        "Date of Birth": "04/11/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Dwaraka Ravi Teja": {
+        "Date of Birth": "05/09/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Andrew Symonds": {
+        "Date of Birth": "09/06/1975",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Venkatesh Iyer": {
+        "Date of Birth": "25/12/1994",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Abdur Razzak": {
+        "Date of Birth": "15/06/1982",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "Bangladesh"
+    },
+    "Anrich Nortje": {
+        "Date of Birth": "16/11/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Thisara Perera": {
+        "Date of Birth": "03/04/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Sarabjit Ladda": {
+        "Date of Birth": "10/07/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Navdeep Saini": {
+        "Date of Birth": "23/11/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Luke Ronchi": {
+        "Date of Birth": "23/04/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "New Zealand"
+    },
+    "Nuwan Kulasekara": {
+        "Date of Birth": "22/07/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Pankaj Singh": {
+        "Date of Birth": "06/05/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Mohammad Kaif": {
+        "Date of Birth": "01/12/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Prasidh Krishna": {
+        "Date of Birth": "19/02/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Jalaj Saxena": {
+        "Date of Birth": "15/12/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak, Legbreak Googly",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Virender Sehwag": {
+        "Date of Birth": "20/10/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Chaminda Vaas": {
+        "Date of Birth": "27/01/1974",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Ishant Sharma": {
+        "Date of Birth": "02/09/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Nayan Doshi": {
+        "Date of Birth": "06/10/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "England"
+    },
+    "James Hopes": {
+        "Date of Birth": "24/10/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Arun Karthik": {
+        "Date of Birth": "15/02/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Kartik Tyagi": {
+        "Date of Birth": "08/11/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sachin Baby": {
+        "Date of Birth": "18/12/1988",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Tanmay Srivastava": {
+        "Date of Birth": "07/11/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Monu Kumar": {
+        "Date of Birth": "05/11/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Yashpal Singh": {
+        "Date of Birth": "27/11/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Farveez Maharoof": {
+        "Date of Birth": "07/09/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Matheesha Pathirana": {
+        "Date of Birth": "18/12/2002",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Akshath Reddy": {
+        "Date of Birth": "11/02/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Jacob Oram": {
+        "Date of Birth": "28/07/1978",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "New Zealand"
+    },
+    "Chris Morris": {
+        "Date of Birth": "30/04/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "South Africa"
+    },
+    "Johan Botha": {
+        "Date of Birth": "02/05/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "South Africa"
+    },
+    "Anand Rajan": {
+        "Date of Birth": "17/04/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Nitin Saini": {
+        "Date of Birth": "28/10/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Lukman Meriwala": {
+        "Date of Birth": "11/12/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Justin Kemp": {
+        "Date of Birth": "02/10/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "South Africa"
+    },
+    "Bodapati Sumanth": {
+        "Date of Birth": "10/05/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Tim Seifert": {
+        "Date of Birth": "14/12/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "New Zealand"
+    },
+    "Jos Buttler": {
+        "Date of Birth": "08/09/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "England"
+    },
+    "Virat Kohli": {
+        "Date of Birth": "05/11/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Kulwant Khejroliya": {
+        "Date of Birth": "13/03/1992",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Saurabh Tiwary": {
+        "Date of Birth": "30/12/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Salman Butt": {
+        "Date of Birth": "07/10/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "Pakistan"
+    },
+    "Deepak Chahar": {
+        "Date of Birth": "07/08/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Rasikh Salam": {
+        "Date of Birth": "05/04/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Angelo Mathews": {
+        "Date of Birth": "02/06/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Chris Gayle": {
+        "Date of Birth": "21/09/1979",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "West Indies"
+    },
+    "Ishan Porel": {
+        "Date of Birth": "05/09/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Krunal Pandya": {
+        "Date of Birth": "24/03/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Thilan Thushara": {
+        "Date of Birth": "01/03/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Chandan Madan": {
+        "Date of Birth": "15/10/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper",
+        "Country": "India"
+    },
+    "Aman Hakim Khan": {
+        "Date of Birth": "23/11/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Rob Quiney": {
+        "Date of Birth": "20/08/1982",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "Australia"
+    },
+    "Lockie Ferguson": {
+        "Date of Birth": "13/06/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Abrar Kazi": {
+        "Date of Birth": "29/09/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Rassie van der Dussen": {
+        "Date of Birth": "07/02/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "South Africa"
+    },
+    "Mahesh Rawat": {
+        "Date of Birth": "25/10/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Lendl Simmons": {
+        "Date of Birth": "25/01/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Top order Batter",
+        "Country": "West Indies"
+    },
+    "Ben Hilfenhaus": {
+        "Date of Birth": "15/03/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Sachin Rana": {
+        "Date of Birth": "18/09/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "MS Dhoni": {
+        "Date of Birth": "07/07/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Nathan Ellis": {
+        "Date of Birth": "22/09/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Ishan Kishan": {
+        "Date of Birth": "18/07/1998",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "James Franklin": {
+        "Date of Birth": "07/11/1980",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "New Zealand"
+    },
+    "Corey Anderson": {
+        "Date of Birth": "13/12/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Batting Allrounder",
+        "Country": "U.S.A."
+    },
+    "Rovman Powell": {
+        "Date of Birth": "23/07/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Middle order Batter",
+        "Country": "West Indies"
+    },
+    "Brendon McCullum": {
+        "Date of Birth": "27/09/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "New Zealand"
+    },
+    "Amit Paunikar": {
+        "Date of Birth": "18/04/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Suraj Randiv": {
+        "Date of Birth": "30/01/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Nicholas Pooran": {
+        "Date of Birth": "02/10/1995",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "West Indies"
+    },
+    "Varun Chakravarthy": {
+        "Date of Birth": "29/08/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Tillakaratne Dilshan": {
+        "Date of Birth": "14/10/1976",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Lee Carseldine": {
+        "Date of Birth": "17/11/1975",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Daniel Sams": {
+        "Date of Birth": "27/10/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Umran Malik": {
+        "Date of Birth": "22/11/1999",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Rishi Dhawan": {
+        "Date of Birth": "19/02/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Sridharan Sriram": {
+        "Date of Birth": "21/02/1976",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Abhinav Manohar": {
+        "Date of Birth": "16/09/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Batting Allrounder",
+        "Country": "India"
+    },
+    "Siddharth Chitnis": {
+        "Date of Birth": "06/05/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "James Faulkner": {
+        "Date of Birth": "29/04/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Australia"
+    },
+    "Ramandeep Singh": {
+        "Date of Birth": "13/04/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Brett Geeves": {
+        "Date of Birth": "13/06/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Isuru Udana": {
+        "Date of Birth": "17/02/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Chris Green": {
+        "Date of Birth": "01/10/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Australia"
+    },
+    "Parthiv Patel": {
+        "Date of Birth": "09/03/1985",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Usman Khawaja": {
+        "Date of Birth": "18/12/1986",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Dhawal Kulkarni": {
+        "Date of Birth": "10/12/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sudhesan Midhun": {
+        "Date of Birth": "07/10/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Adam Milne": {
+        "Date of Birth": "13/04/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Rajat Bhatia": {
+        "Date of Birth": "22/10/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Trent Boult": {
+        "Date of Birth": "22/07/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Prerak Mankad": {
+        "Date of Birth": "23/04/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Arjun Yadav": {
+        "Date of Birth": "23/12/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Liam Livingstone": {
+        "Date of Birth": "04/08/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak, Legbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "England"
+    },
+    "Ankit Bawne": {
+        "Date of Birth": "17/12/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Ankeet Chavan": {
+        "Date of Birth": "28/10/1985",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Shreevats Goswami": {
+        "Date of Birth": "18/05/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Pat Cummins": {
+        "Date of Birth": "08/05/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Sandeep Lamichhane": {
+        "Date of Birth": "02/08/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "Nepal"
+    },
+    "Shane Watson": {
+        "Date of Birth": "17/06/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Sanath Jayasuriya": {
+        "Date of Birth": "30/06/1969",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Ashok Dinda": {
+        "Date of Birth": "25/03/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Chris Lynn": {
+        "Date of Birth": "10/04/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Batter",
+        "Country": "Australia"
+    },
+    "Darren Bravo": {
+        "Date of Birth": "06/02/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "West Indies"
+    },
+    "Ajit Agarkar": {
+        "Date of Birth": "04/12/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sohail Tanvir": {
+        "Date of Birth": "12/12/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "Pakistan"
+    },
+    "Scott Kuggeleijn": {
+        "Date of Birth": "03/01/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "New Zealand"
+    },
+    "Shane Warne": {
+        "Date of Birth": "13/09/1969",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Padmanabhan Prasanth": {
+        "Date of Birth": "03/09/1985",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Shikhar Dhawan": {
+        "Date of Birth": "05/12/1985",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Jonny Bairstow": {
+        "Date of Birth": "26/09/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "England"
+    },
+    "Alex Hales": {
+        "Date of Birth": "03/01/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Opening Batter",
+        "Country": "England"
+    },
+    "Sunil Narine": {
+        "Date of Birth": "26/05/1988",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "West Indies"
+    },
+    "Mohammed Shami": {
+        "Date of Birth": "03/09/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Shivil Kaushik": {
+        "Date of Birth": "07/09/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Wrist spin",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Romario Shepherd": {
+        "Date of Birth": "26/11/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "West Indies"
+    },
+    "Brad Haddin": {
+        "Date of Birth": "23/10/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Australia"
+    },
+    "Avesh Khan": {
+        "Date of Birth": "13/12/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Kevin Pietersen": {
+        "Date of Birth": "27/06/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "England"
+    },
+    "Sumit Narwal": {
+        "Date of Birth": "16/04/1982",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Axar Patel": {
+        "Date of Birth": "20/01/1994",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Wayne Parnell": {
+        "Date of Birth": "30/07/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Samuel Badree": {
+        "Date of Birth": "09/03/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Prithvi Shaw": {
+        "Date of Birth": "09/11/1999",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Jacques Kallis": {
+        "Date of Birth": "16/10/1975",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "South Africa"
+    },
+    "Tyron Henderson": {
+        "Date of Birth": "01/08/1974",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Ishwar Pandey": {
+        "Date of Birth": "15/08/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Alzarri Joseph": {
+        "Date of Birth": "20/11/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Abhishek Jhunjhunwala": {
+        "Date of Birth": "01/12/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Kemar Roach": {
+        "Date of Birth": "30/06/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Kuldip Yadav": {
+        "Date of Birth": "15/10/1996",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Krishmar Santokie": {
+        "Date of Birth": "20/12/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Oshane Thomas": {
+        "Date of Birth": "18/02/1997",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "West Indies"
+    },
+    "Rahul Tewatia": {
+        "Date of Birth": "20/05/1993",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Ajit Chandila": {
+        "Date of Birth": "05/12/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Varun Aaron": {
+        "Date of Birth": "29/10/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Debabrata Das": {
+        "Date of Birth": "22/09/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Johan van der Wath": {
+        "Date of Birth": "10/01/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "South Africa"
+    },
+    "Mark Wood": {
+        "Date of Birth": "11/01/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "England"
+    },
+    "Abu Nechim": {
+        "Date of Birth": "05/11/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Andrew McDonald": {
+        "Date of Birth": "05/06/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Abhishek Nayar": {
+        "Date of Birth": "08/10/1983",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Simon Katich": {
+        "Date of Birth": "21/08/1975",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Wrist spin",
+        "Playing Role": "Batter",
+        "Country": "Australia"
+    },
+    "Paras Dogra": {
+        "Date of Birth": "19/11/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Andre Russell": {
+        "Date of Birth": "29/04/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Allrounder",
+        "Country": "West Indies"
+    },
+    "Ambati Rayudu": {
+        "Date of Birth": "23/09/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Aavishkar Salvi": {
+        "Date of Birth": "20/10/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Dale Steyn": {
+        "Date of Birth": "27/06/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Devon Conway": {
+        "Date of Birth": "08/07/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "New Zealand"
+    },
+    "Yo Mahesh": {
+        "Date of Birth": "21/12/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Abhinav Mukund": {
+        "Date of Birth": "06/01/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Suryakumar Yadav": {
+        "Date of Birth": "14/09/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Pawan Negi": {
+        "Date of Birth": "06/01/1993",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Dushmantha Chameera": {
+        "Date of Birth": "11/01/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Raiphi Gomez": {
+        "Date of Birth": "16/10/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Mohammad Ashraful": {
+        "Date of Birth": "07/07/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak, Legbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "Bangladesh"
+    },
+    "Billy Stanlake": {
+        "Date of Birth": "04/11/1994",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Bhargav Bhatt": {
+        "Date of Birth": "13/05/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Rahul Shukla": {
+        "Date of Birth": "28/08/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Abhimanyu Mithun": {
+        "Date of Birth": "25/10/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ravi Bishnoi": {
+        "Date of Birth": "05/09/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Brett Lee": {
+        "Date of Birth": "08/11/1976",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Jofra Archer": {
+        "Date of Birth": "01/04/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "England"
+    },
+    "Akash Deep": {
+        "Date of Birth": "15/12/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Joe Denly": {
+        "Date of Birth": "16/03/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "England"
+    },
+    "Yashasvi Jaiswal": {
+        "Date of Birth": "28/12/2001",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Marchant de Lange": {
+        "Date of Birth": "13/10/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Ben Cutting": {
+        "Date of Birth": "30/01/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Adam Zampa": {
+        "Date of Birth": "31/03/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Rajat Patidar": {
+        "Date of Birth": "01/06/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Dinesh Salunkhe": {
+        "Date of Birth": "12/11/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Tatenda Taibu": {
+        "Date of Birth": "14/05/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Zimbabwe"
+    },
+    "Rahul Tripathi": {
+        "Date of Birth": "02/03/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Shreyas Gopal": {
+        "Date of Birth": "04/09/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Riley Meredith": {
+        "Date of Birth": "21/06/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Faiz Fazal": {
+        "Date of Birth": "07/09/1985",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Sean Abbott": {
+        "Date of Birth": "29/02/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Australia"
+    },
+    "Odean Smith": {
+        "Date of Birth": "01/11/1996",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "West Indies"
+    },
+    "Manan Vohra": {
+        "Date of Birth": "18/07/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Martin Guptill": {
+        "Date of Birth": "30/09/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "New Zealand"
+    },
+    "Cheteshwar Pujara": {
+        "Date of Birth": "25/01/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Priyam Garg": {
+        "Date of Birth": "30/11/2000",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Jason Holder": {
+        "Date of Birth": "05/11/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "West Indies"
+    },
+    "Prashant Chopra": {
+        "Date of Birth": "07/10/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Dinesh Karthik": {
+        "Date of Birth": "01/06/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Glenn McGrath": {
+        "Date of Birth": "09/02/1970",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Colin Munro": {
+        "Date of Birth": "11/03/1987",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Opening Batter",
+        "Country": "New Zealand"
+    },
+    "Sourav Ganguly": {
+        "Date of Birth": "08/07/1972",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Dilhara Fernando": {
+        "Date of Birth": "19/07/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Sri Lanka"
+    },
+    "Chamara Kapugedera": {
+        "Date of Birth": "24/02/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Middle order Batter",
+        "Country": "Sri Lanka"
+    },
+    "Sreenath Aravind": {
+        "Date of Birth": "08/04/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Robin Uthappa": {
+        "Date of Birth": "11/11/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Ricky Ponting": {
+        "Date of Birth": "19/12/1974",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Brad Hogg": {
+        "Date of Birth": "06/02/1971",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Wrist spin",
+        "Playing Role": "Allrounder",
+        "Country": "Australia"
+    },
+    "Jaydev Unadkat": {
+        "Date of Birth": "18/10/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ben Stokes": {
+        "Date of Birth": "04/06/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Allrounder",
+        "Country": "England"
+    },
+    "Robin Peterson": {
+        "Date of Birth": "04/08/1979",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Farhaan Behardien": {
+        "Date of Birth": "09/10/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Batting Allrounder",
+        "Country": "South Africa"
+    },
+    "Shane Harwood": {
+        "Date of Birth": "01/03/1974",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Murugan Ashwin": {
+        "Date of Birth": "08/09/1990",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Heinrich Klaasen": {
+        "Date of Birth": "30/07/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "South Africa"
+    },
+    "Andrew Tye": {
+        "Date of Birth": "12/12/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Shubman Gill": {
+        "Date of Birth": "08/09/1999",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Shaun Marsh": {
+        "Date of Birth": "09/07/1983",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Albie Morkel": {
+        "Date of Birth": "10/06/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "South Africa"
+    },
+    "Tim Paine": {
+        "Date of Birth": "08/12/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Australia"
+    },
+    "Charl Langeveldt": {
+        "Date of Birth": "17/12/1974",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "South Africa"
+    },
+    "Baba Indrajith": {
+        "Date of Birth": "08/07/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Mohammed Siraj": {
+        "Date of Birth": "13/03/1994",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "James Neesham": {
+        "Date of Birth": "17/09/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Batting Allrounder",
+        "Country": "New Zealand"
+    },
+    "Roelof van der Merwe": {
+        "Date of Birth": "31/12/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Netherlands"
+    },
+    "Alex Carey": {
+        "Date of Birth": "27/08/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Australia"
+    },
+    "Ashish Nehra": {
+        "Date of Birth": "29/04/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Morne van Wyk": {
+        "Date of Birth": "20/03/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "South Africa"
+    },
+    "Pardeep Sahu": {
+        "Date of Birth": "21/08/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Kusal Perera": {
+        "Date of Birth": "17/08/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "Sri Lanka"
+    },
+    "Javon Searles": {
+        "Date of Birth": "21/12/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "West Indies"
+    },
+    "Sandeep Warrier": {
+        "Date of Birth": "04/04/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Shadab Jakati": {
+        "Date of Birth": "27/11/1980",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Manoj Tiwary": {
+        "Date of Birth": "14/11/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Hashim Amla": {
+        "Date of Birth": "31/03/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "South Africa"
+    },
+    "Sunil Joshi": {
+        "Date of Birth": "06/06/1970",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Rahul Sharma": {
+        "Date of Birth": "30/11/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Akash Singh": {
+        "Date of Birth": "26/04/2002",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Abhishek Sharma": {
+        "Date of Birth": "04/09/2000",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Vikram Singh": {
+        "Date of Birth": "17/09/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Check",
+        "Country": "India"
+    },
+    "George Bailey": {
+        "Date of Birth": "07/09/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "Australia"
+    },
+    "Mustafizur Rahman": {
+        "Date of Birth": "06/09/1995",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Bangladesh"
+    },
+    "Zaheer Khan": {
+        "Date of Birth": "08/10/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Rajesh Bishnoi": {
+        "Date of Birth": "08/10/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Arshdeep Singh": {
+        "Date of Birth": "05/02/1999",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Abdul Samad": {
+        "Date of Birth": "28/10/2001",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Chamara Silva": {
+        "Date of Birth": "14/12/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Batter",
+        "Country": "Sri Lanka"
+    },
+    "Owais Shah": {
+        "Date of Birth": "22/10/1978",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "England"
+    },
+    "Lalit Yadav": {
+        "Date of Birth": "03/01/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Shahid Afridi": {
+        "Date of Birth": "01/03/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Allrounder",
+        "Country": "Pakistan"
+    },
+    "Shoaib Akhtar": {
+        "Date of Birth": "13/08/1975",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Pakistan"
+    },
+    "Gagandeep Singh": {
+        "Date of Birth": "03/10/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Check",
+        "Country": "India"
+    },
+    "Sanjay Yadav": {
+        "Date of Birth": "10/05/1995",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Ali Murtaza": {
+        "Date of Birth": "01/01/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Mohammad Hafeez": {
+        "Date of Birth": "17/10/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Pakistan"
+    },
+    "Khaleel Ahmed": {
+        "Date of Birth": "05/12/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Shoaib Ahmed": {
+        "Date of Birth": "19/11/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Check",
+        "Country": "India"
+    },
+    "Rp Singh": {
+        "Date of Birth": "06/12/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "David Miller": {
+        "Date of Birth": "10/06/1989",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "South Africa"
+    },
+    "Vinay Kumar": {
+        "Date of Birth": "12/02/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Ryan Harris": {
+        "Date of Birth": "11/10/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "Australia"
+    },
+    "Younis Khan": {
+        "Date of Birth": "29/11/1977",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Legbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "Pakistan"
+    },
+    "Mohit Sharma": {
+        "Date of Birth": "18/09/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Shahbaz Ahmed": {
+        "Date of Birth": "11/12/1994",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Harpreet Singh": {
+        "Date of Birth": "11/08/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Praveen Kumar": {
+        "Date of Birth": "02/10/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Misbahulhaq": {
+        "Date of Birth": "28/05/1974",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "Pakistan"
+    },
+    "Faf Du Plessis": {
+        "Date of Birth": "13/07/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "South Africa"
+    },
+    "Jaskaran Singh": {
+        "Date of Birth": "21/12/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Amit Mishra": {
+        "Date of Birth": "24/11/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Shashank Singh": {
+        "Date of Birth": "21/11/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium, Right arm Offbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "India"
+    },
+    "Michael Clarke": {
+        "Date of Birth": "02/04/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Middle order Batter",
+        "Country": "Australia"
+    },
+    "Rohit Sharma": {
+        "Date of Birth": "30/04/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Ross Taylor": {
+        "Date of Birth": "08/03/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "New Zealand"
+    },
+    "Arindam Ghosh": {
+        "Date of Birth": "19/10/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Shahbaz Nadeem": {
+        "Date of Birth": "12/08/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sunny Singh": {
+        "Date of Birth": "18/12/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Sarfaraz Khan": {
+        "Date of Birth": "22/10/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Amit Singh": {
+        "Date of Birth": "21/06/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Graeme Smith": {
+        "Date of Birth": "01/02/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Opening Batter",
+        "Country": "South Africa"
+    },
+    "Rashid Khan": {
+        "Date of Birth": "20/09/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Afghanistan"
+    },
+    "Dawid Malan": {
+        "Date of Birth": "03/09/1987",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "England"
+    },
+    "Kamran Khan": {
+        "Date of Birth": "10/03/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Daryl Mitchell": {
+        "Date of Birth": "20/05/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batting Allrounder",
+        "Country": "New Zealand"
+    },
+    "Vijay Shankar": {
+        "Date of Birth": "26/01/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Harbhajan Singh": {
+        "Date of Birth": "03/07/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sandeep Sharma": {
+        "Date of Birth": "18/05/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Mohsin Khan": {
+        "Date of Birth": "15/07/1998",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Harmeet Singh": {
+        "Date of Birth": "09/10/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Siddharth Trivedi": {
+        "Date of Birth": "04/09/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Matt Henry": {
+        "Date of Birth": "14/12/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "New Zealand"
+    },
+    "Irfan Pathan": {
+        "Date of Birth": "27/10/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium fast",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Manish Pandey": {
+        "Date of Birth": "10/09/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Yuvraj Singh": {
+        "Date of Birth": "12/12/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Mohammad Nabi": {
+        "Date of Birth": "01/01/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Afghanistan"
+    },
+    "Karan Sharma": {
+        "Date of Birth": "31/10/1998",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Niraj Patel": {
+        "Date of Birth": "26/03/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    },
+    "Mohammad Asif": {
+        "Date of Birth": "20/12/1982",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "Pakistan"
+    },
+    "Thalaivan Sargunam": {
+        "Date of Birth": "15/05/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Ravisrinivasan Sai Kishore": {
+        "Date of Birth": "06/11/1996",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "M Shahrukh Khan": {
+        "Date of Birth": "27/05/1995",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "S Badrinath": {
+        "Date of Birth": "30/08/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Anustup Majumdar": {
+        "Date of Birth": "30/04/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Dillon Du Preez": {
+        "Date of Birth": "08/11/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "South Africa"
+    },
+    "Wilkin Mota": {
+        "Date of Birth": "20/09/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "T Natarajan": {
+        "Date of Birth": "04/04/1991",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Musavir Khote": {
+        "Date of Birth": "22/04/1980",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Wanindu Hasaranga de Silva": {
+        "Date of Birth": "29/07/1997",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Allrounder",
+        "Country": "Sri Lanka"
+    },
+    "Prasanth Parameswaran": {
+        "Date of Birth": "30/05/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Veer Pratap Singh": {
+        "Date of Birth": "03/05/1992",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Paidikalva Vijaykumar": {
+        "Date of Birth": "20/10/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Krishnakant Upadhyay": {
+        "Date of Birth": "18/06/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sunny Gupta": {
+        "Date of Birth": "27/09/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Jagadeesh Arunkumar": {
+        "Date of Birth": "18/01/1975",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Mohnish Parmar": {
+        "Date of Birth": "12/04/1988",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Nathan Coulter-Nile": {
+        "Date of Birth": "11/10/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "Australia"
+    },
+    "Vikrant Yeligati": {
+        "Date of Birth": "23/04/1985",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Vijay Zol": {
+        "Date of Birth": "23/11/1994",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "D'Arcy Short": {
+        "Date of Birth": "09/08/1990",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Wrist spin",
+        "Playing Role": "Opening Batter",
+        "Country": "Australia"
+    },
+    "Daniel Harris": {
+        "Date of Birth": "31/12/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Opening Batter",
+        "Country": "Australia"
+    },
+    "Chetanya Nanda": {
+        "Date of Birth": "29/03/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Palani Amarnath": {
+        "Date of Birth": "01/06/1982",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Azhar Bilakhia": {
+        "Date of Birth": "31/05/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Udit Birla": {
+        "Date of Birth": "17/11/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Rohan Gavaskar": {
+        "Date of Birth": "20/02/1976",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Slow Left arm Orthodox",
+        "Playing Role": "Batting Allrounder",
+        "Country": "India"
+    },
+    "Rohan Raje": {
+        "Date of Birth": "03/09/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Devraj Patil": {
+        "Date of Birth": "06/12/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Rahil Shaikh": {
+        "Date of Birth": "12/06/1985",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Pm Sarvesh Kumar": {
+        "Date of Birth": "26/04/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Karanveer Singh": {
+        "Date of Birth": "08/11/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Kevon Cooper": {
+        "Date of Birth": "16/02/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "West Indies"
+    },
+    "Halhadar Das": {
+        "Date of Birth": "10/12/1986",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Wicketkeeper Batter",
+        "Country": "India"
+    },
+    "Chandrasekar Ganapathy": {
+        "Date of Birth": "10/06/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Top order Batter",
+        "Country": "India"
+    },
+    "Ranadeb Bose": {
+        "Date of Birth": "27/02/1979",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Fast medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Tp Sudhindra": {
+        "Date of Birth": "24/04/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Yogesh Takawale": {
+        "Date of Birth": "05/11/1984",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Ishank Jaggi": {
+        "Date of Birth": "27/01/1989",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Doddapaneni Kalyankrishna": {
+        "Date of Birth": "16/12/1983",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Domnic Muthuswami": {
+        "Date of Birth": "09/03/1981",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Bowler",
+        "Country": "India"
+    },
+    "Sanjay Bangar": {
+        "Date of Birth": "11/10/1972",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium fast",
+        "Playing Role": "Middle order Batter",
+        "Country": "India"
+    },
+    "Jean-Paul Duminy": {
+        "Date of Birth": "14/04/1984",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Batting Allrounder",
+        "Country": "South Africa"
+    },
+    "Shubham Agarwal": {
+        "Date of Birth": "21/11/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Legbreak Googly",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Amit Uniyal": {
+        "Date of Birth": "21/11/1981",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Left arm Medium",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Shivam Sharma": {
+        "Date of Birth": "09/09/1993",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Offbreak",
+        "Playing Role": "Bowling Allrounder",
+        "Country": "India"
+    },
+    "Anirudh Singh": {
+        "Date of Birth": "02/08/1980",
+        "Batting Style": "Left hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Batter",
+        "Country": "India"
+    },
+    "Shoaib Shaikh": {
+        "Date of Birth": "18/01/1987",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Opening Batter",
+        "Country": "India"
+    },
+    "Mandeep Singh": {
+        "Date of Birth": "18/12/1991",
+        "Batting Style": "Right hand Bat",
+        "Bowling Style": "Right arm Medium",
+        "Playing Role": "Allrounder",
+        "Country": "India"
+    }
+}

@@ -287,13 +287,13 @@ server <- function(input, output){
     
     if ('Economy' %in% input$Metric_2){
       filter_data <- filter_data  %>%
-        arrange((Economy)) %>%
+        arrange(Economy) %>%
         slice_head(n=10)
     }
     
     if ('Bowling Average' %in% input$Metric_2){
       filter_data <- filter_data  %>%
-        arrange((Average)) %>%
+        arrange(Average) %>%
         slice_head(n=10)
     }
     
@@ -335,12 +335,12 @@ server <- function(input, output){
     }
     
     if ('Economy' %in% input$Metric_2){
-      gg <- ggplot(team_bowl_dynamic(), aes(x= reorder(Bowler, -Economy), y = Economy)) +
+      gg <- ggplot(team_bowl_dynamic(), aes(x= reorder(Bowler, Economy), y = Economy)) +
         geom_bar(stat = 'identity', fill='gold')
     }
     
     if ('Bowling Average' %in% input$Metric_2){
-      gg <- ggplot(team_bowl_dynamic(), aes(x= reorder(Bowler, -Average), y = Average)) +
+      gg <- ggplot(team_bowl_dynamic(), aes(x= reorder(Bowler, Average), y = Average)) +
         geom_bar(stat = 'identity', fill='gold')
     }
     

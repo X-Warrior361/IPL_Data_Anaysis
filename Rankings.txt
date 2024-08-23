@@ -1,0 +1,27 @@
+Batsmen Ranking is decided on the basis of;
+
+1. Out or Not Out (Bonus points are given to Not out players)
+
+2. Ratings of the opposing bowling attack; the higher the combined ratings of the bowling attack, in proportion more value is given to the batsman’s innings.
+
+3. Runs scored i.e., more runs means more bonus points. A century in the second innings will get more credit than in the first inning.
+
+4. At which juncture; runs are scored. If player score runs when his team was in crisis, then player gets more rating points.
+
+5. The level of run-scoring in the match. If both teams score 500 in innings, then the computer rate it as a high scoring match, so 100 runs by a player in this innings worth lesser to a low scoring match in which both team score just 150 runs.
+
+6. If a player has scored more runs in a match and his team wins then he gets bonus points. But bonus points will be more if the victory is against a strong team.
+
+Bowlers Ranking is decided on the basis of;
+
+1. Wickets taken and runs conceded
+
+2. Ratings of the batsmen dismissed. At present Kohli is on the number one ranking holder in the Test, so his wicket will give more rating points to bowlers than Jaspreet Bumrah's wicket.
+
+3. If in a one-day match, the Australia team has scored 350 runs and Bhuvneshwar Kumar took three wickets for 50 runs (3-50) and in another match Australia's team scored 180 runs and Hardik Pandya took 3-50.  So Bhuvneshwar Kumar will get more rating points because he has conceded 50 runs in a high scoring match and pandya spent 50 runs in the match of just 180 runs.
+
+
+4. Heavy workload; bowlers who bowl a large number of overs in the match get more credit, even if he/she take no wickets.
+When are the rankings updated?
+
+Normally ICC updates the Test rankings after each Test match (usually within 12 hours) and ODI ratings at the end of each ODI series. But generally it don’t publish Test rankings if another Test match is currently in progress.

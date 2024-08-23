@@ -312,7 +312,7 @@ season_venue_team_all_batting <- team_batting_data %>%
   mutate(Average = Runs/Dismissed, Strike_Rate = Runs/Balls*100)
 
 season_bowling_team_team_all_batting <- team_batting_data %>%
-  group_by(Batting_Team, Striker, Season) %>%
+  group_by(Batting_Team, Striker, Stadium) %>%
   summarise(Runs = sum(Runs), Dismissed = sum(Wickets), Balls = sum(Balls)) %>%
   mutate(Bowling_Team='All', Season='All') %>%
   mutate(Average = Runs/Dismissed, Strike_Rate = Runs/Balls*100)
@@ -362,9 +362,9 @@ season_venue_team_all_bowling <- team_bowling_data %>%
 
 
 season_batting_team_team_all_bowling <- team_bowling_data %>%
-  group_by(Bowling_Team, Bowler, Batting_Team, Stadium) %>%
+  group_by(Bowling_Team, Bowler, Stadium) %>%
   summarise(Runs = sum(Runs), Wickets = sum(Wickets), Balls = sum(Balls)) %>%
-  mutate(Season='All', Stadium='All') %>%
+  mutate(Season='All', Batting_Team='All') %>%
   mutate(Average = Runs/Wickets, Economy = Runs/Balls*6)
 
 
